@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio5 Multiplicando/1.0.0": {
+        "runtime": {
+          "Exercicio5 Multiplicando.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio5 Multiplicando/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

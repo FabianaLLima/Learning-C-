@@ -1,0 +1,14 @@
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\bin\Debug\net8.0\Exercicio5 Multiplicando.exe
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\bin\Debug\net8.0\Exercicio5 Multiplicando.deps.json
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\bin\Debug\net8.0\Exercicio5 Multiplicando.runtimeconfig.json
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\bin\Debug\net8.0\Exercicio5 Multiplicando.dll
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\bin\Debug\net8.0\Exercicio5 Multiplicando.pdb
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.AssemblyInfoInputs.cache
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.AssemblyInfo.cs
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.dll
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\refint\Exercicio5 Multiplicando.dll
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.pdb
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\Exercicio5 Multiplicando.genruntimeconfig.cache
+C:\Users\Anderson Chagas\OneDrive\Documentos\repos\C# Nanodegre Faculdade\Exercicio Aula 5 Multiplicando\Exercicio5 Multiplicando\Exercicio5 Multiplicando\obj\Debug\net8.0\ref\Exercicio5 Multiplicando.dll
