@@ -1,0 +1,14 @@
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\bin\Debug\net8.0\ExercicioConsoleC#.exe
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\bin\Debug\net8.0\ExercicioConsoleC#.deps.json
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\bin\Debug\net8.0\ExercicioConsoleC#.runtimeconfig.json
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\bin\Debug\net8.0\ExercicioConsoleC#.dll
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\bin\Debug\net8.0\ExercicioConsoleC#.pdb
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.AssemblyInfoInputs.cache
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.AssemblyInfo.cs
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.csproj.CoreCompileInputs.cache
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.dll
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\refint\ExercicioConsoleC#.dll
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.pdb
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ExercicioConsoleC#.genruntimeconfig.cache
+C:\Users\Anderson Chagas\source\repos\PrimeiroPrograma\ExercicioConsoleC#\ExercicioConsoleC#\obj\Debug\net8.0\ref\ExercicioConsoleC#.dll
