@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio7Switch/1.0.0": {
+        "runtime": {
+          "Exercicio7Switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio7Switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

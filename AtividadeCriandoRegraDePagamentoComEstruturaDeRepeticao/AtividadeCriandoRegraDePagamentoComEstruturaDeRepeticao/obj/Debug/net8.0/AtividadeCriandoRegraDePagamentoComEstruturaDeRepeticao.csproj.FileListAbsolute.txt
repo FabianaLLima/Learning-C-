@@ -1,0 +1,1 @@
+C:\Users\SAURUS-19\Documents\C#  Consoleapp2\AtividadeCriandoRegraDePagamentoComEstruturaDeRepeticao\AtividadeCriandoRegraDePagamentoComEstruturaDeRepeticao\obj\Debug\net8.0\AtividadeCriandoRegraDePagamentoComEstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
